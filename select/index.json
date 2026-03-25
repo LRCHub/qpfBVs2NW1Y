@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "メランコリック (Cover)",
+  "base_artist": "しぐれうい",
+  "createdAt": "2026-03-25T19:17:36.013606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "Junky",
+      "has_synced": false,
+      "path": "select/01_メランコリック_Junky.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "Junky feat.鏡音リン",
+      "has_synced": false,
+      "path": "select/02_メランコリック_Junky_feat.鏡音リン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "鏡音リン",
+      "has_synced": false,
+      "path": "select/03_メランコリック_鏡音リン.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "Nano feat. neko",
+      "has_synced": true,
+      "path": "select/04_メランコリック_Nano_feat._neko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メランコリック（feat. neko）",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/05_メランコリック(feat._neko)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/06_メランコリック_nano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メランコリック(feat. neko)",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/07_メランコリック(feat._neko)_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "Junky feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/08_メランコリック_Junky_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "Junky feat. みかりん*",
+      "has_synced": false,
+      "path": "select/09_メランコリック_Junky_feat._みかりん.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "Junky feat. 鹿乃",
+      "has_synced": false,
+      "path": "select/10_メランコリック_Junky_feat._鹿乃.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メランコリック feat. 鏡音リン",
+      "artist": "Junky",
+      "has_synced": false,
+      "path": "select/11_メランコリック_feat._鏡音リン_Junky.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "鏡音リン",
+      "has_synced": true,
+      "path": "select/12_メランコリック_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メランコリック",
+      "artist": "Junky; 鏡音リン",
+      "has_synced": false,
+      "path": "select/13_メランコリック_Junky;_鏡音リン.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メランコリック (Cover)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_メランコリック_(Cover)_しぐれうい.txt"
+    }
+  ]
+}
